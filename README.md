@@ -1,35 +1,45 @@
 # Gabriel Alves
 
-Desenvolvedor .NET em evolução, com foco em back-end, APIs REST, SQL Server, processamento de dados e aplicações web.
+Desenvolvedor em evolução, com foco em C#/.NET, ASP.NET, SQL Server, Entity Framework e desenvolvimento de aplicações web.
 
-Atualmente trabalho com desenvolvimento de sistemas corporativos, integrações, importação de arquivos XML fiscais, banco de dados e automações em C#.
+Atualmente venho aprofundando meus estudos e prática em desenvolvimento back-end, persistência de dados, APIs, sistemas web e organização de projetos. Meu GitHub reúne projetos de estudo, aplicações web e experimentos técnicos que mostram minha evolução na programação.
 
-## Tecnologias principais
+## Tecnologias que venho utilizando
 
-- C# / .NET
-- ASP.NET Core
-- SQL Server
-- APIs REST
-- JavaScript / TypeScript
-- React
-- Vue.js
-- HTML / CSS
-- Git / GitHub
+* C# / .NET
+* ASP.NET MVC / ASP.NET Core
+* Entity Framework
+* ADO.NET
+* SQL Server
+* JavaScript / TypeScript
+* React
+* Vite
+* TailwindCSS
+* HTML / CSS
+* Git / GitHub
 
 ## Projetos em destaque
 
-### Importador XML Fiscal
+### Sistema para barbearia
 
-Projeto em C#/.NET para leitura e importação de XMLs NFe/CFe em banco SQL Server, com foco em performance, processamento em lote, SqlBulkCopy, logs e checkpoint de retomada.
+Aplicação web em ASP.NET com estrutura MVC, fluxo de login, controle de usuários, organização em Controllers, Models, Services, Repository e Views.
 
-### E-commerce automotivo
+### Site de casamento
 
-Sistema de vendas de peças automotivas com catálogo, carrinho, pedidos, painel administrativo e integração com back-end.
+Aplicação front-end desenvolvida com React, TypeScript, Vite e TailwindCSS, contendo lista de presentes, RSVP, modal PIX, localização, responsividade e deploy estático.
 
-### Aplicações web
+### Estudos com Entity Framework e ADO.NET
 
-Projetos front-end utilizando React, TypeScript, Vue.js, TailwindCSS e consumo de APIs.
+Projeto focado em persistência de dados com C#, Entity Framework, ADO.NET, migrations, scripts SQL e prática de refatoração.
 
-## Objetivo profissional
+### Estudos com arquivos e XML
 
-Busco evoluir como desenvolvedor back-end .NET, criando sistemas bem estruturados, performáticos e fáceis de manter.
+Repositórios voltados para leitura, manipulação e processamento de arquivos, reforçando fundamentos de entrada/saída de dados e organização de lógica em C#.
+
+## Em evolução
+
+Estou direcionando meus estudos para desenvolvimento back-end com .NET, arquitetura de software, banco de dados, APIs REST e boas práticas de organização de código.
+
+## Objetivo
+
+Construir uma base técnica sólida para atuar em projetos corporativos, criando aplicações organizadas, funcionais e fáceis de manter.
